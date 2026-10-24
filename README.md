@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**MdRehanAli700/MdRehanAli700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm MD Rehan Ali 👋
 
-Here are some ideas to get you started:
+### Computer Science Engineering Student | Curious Learner | Aspiring Innovator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a second-year Computer Science Engineering student from Hyderabad, India.
+
+I'm exploring different areas of technology and learning how to turn ideas into practical solutions.
+
+- 🔍 Interested in research, analysis, and problem-solving
+- 🛡️ Exploring cybersecurity and digital safety
+- 🤖 Curious about AI and emerging technologies
+- 💻 Learning programming and web technologies
+- 🚀 Building and improving projects through hands-on practice
+
+### 🛠️ Technologies I'm Learning
+
+- **Languages:** C, Python, JavaScript
+- **Web:** HTML, CSS
+- **Database:** SQL, MySQL
+- **Tools:** Git, GitHub
+
+### 🚧 Current Project
+
+**CyberShield** — an ongoing cybersecurity-focused project.
+
+I'm working on improving my practical development skills and learning through experimentation.
+
+### 🎯 My Goal
+
+To explore technology, collaborate with curious people, and build useful, innovative products.
+
+### 🤝 Let's Connect
+
+- LinkedIn: [https://www.linkedin.com/in/md-rehan-ali-a1358636a/]
+- GitHub: You're already here!
+
+---
+
+*Stay curious. Keep learning. Build something meaningful.*
